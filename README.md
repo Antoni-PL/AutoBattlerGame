@@ -1,2 +1,2 @@
 # AutoBattlerGame
-Game prototype
+Game prototype.
